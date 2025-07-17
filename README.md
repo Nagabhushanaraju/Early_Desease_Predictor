@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Disease Prediction System
 
 AI-powered web application for disease prediction using machine learning.
@@ -164,3 +165,7 @@ This project is for educational purposes. Please ensure compliance with local re
 ## Contact
 
 For questions or support, please refer to the project documentation or create an issue in the repository. 
+=======
+# Early_Desease_Predictor
+A machine learning-based system for early detection of diseases using patient symptoms. Built with Python, Flask, and scikit-learn.
+>>>>>>> b131e371cbda3ff8417a2ecaa5b0eae312a80583
