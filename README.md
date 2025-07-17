@@ -210,6 +210,18 @@ See the LICENSE file for complete details.
 
 For questions or support, please refer to the project documentation or create an issue in the repository. 
 
-# Early_Desease_Predictor
-A machine learning-based system for early detection of diseases using patient symptoms. Built with Python, Flask, and scikit-learn.
+
+## 🌟 Support the Project
+
+ don't forget to **⭐ Star** the repo — If you find this project useful ! 
+
+---
+
+## Thank You
+
+Thanks for visiting this repository!  
+Feel free to star ⭐ the project, give feedback, or contribute.
+
+
+
 
