@@ -1,6 +1,7 @@
 
 # Disease Prediction System
 
+
 An AI-powered web application for early disease detection using patient symptoms.  
 Built with **Python**, **Flask**, and **scikit-learn**, this system leverages machine learning models to predict potential diseases based on user-input symptoms.
 
@@ -17,9 +18,9 @@ python app.py
 ```
 
 3. Open
-   ```bash
-   http://localhost:5000 #in your browser
-
+```bash
+ http://localhost:5000 #in your browser
+   ```
 ## Features
 
 - Random Forest classifier with 97.6% accuracy
@@ -87,10 +88,10 @@ python app.py
     
     cd Early_Desease_Predictor
 
--Install required dependencies inside the virtual environment:
+- Install required dependencies inside the virtual environment:
 
-```bash
-pip install -r requirements.txt
+  ```bash
+     pip install -r requirements.txt
 
    ```
 
@@ -215,12 +216,32 @@ For questions or support, please refer to the project documentation or create an
 
  don't forget to **⭐ Star** the repo — If you find this project useful ! 
 
+> Every star helps us reach more developers, researchers, and healthcare innovators 🌐.
+
 ---
+
+## 🤝 Team Members
+
+This is a collaborative major project developed by our dedicated team:
+
+- 👩‍💻 **Swetha**  
+  🔗 [github.com/swetha-mehtre/desease-detection-by-multimodal](https://github.com/swetha-mehtre/desease-detection-by-multimodal.git)
+
+- 👩‍💻 **Nihirika S Ravi**  
+  🔗 [github.com/qwer510/multimodal-ai-early-disease-detection](https://github.com/qwer510/multimodal-ai-early-disease-detection.git)
+
+- 👩‍💻 **Mihira Puja**  
+  🔗 [github.com/mihira0512/Multimodal-disease-detection](https://github.com/mihira0512/Multimodal-disease-detection.git)
+
+----
 
 ## Thank You
 
 Thanks for visiting this repository!  
 Feel free to star ⭐ the project, give feedback, or contribute.
+
+
+> For queries, collaborations, or suggestions — feel free to open an issue or pull request!
 
 
 
