@@ -227,7 +227,7 @@ This is a collaborative major project developed by our dedicated team:
 - 👩‍💻 **Swetha**  
   🔗 [github.com/swetha-mehtre/desease-detection-by-multimodal](https://github.com/swetha-mehtre/desease-detection-by-multimodal.git)
 
-- 👩‍💻 **Nihirika S Ravi**  
+- 👩‍💻 **Niharika S Ravi**  
   🔗 [github.com/qwer510/multimodal-ai-early-disease-detection](https://github.com/qwer510/multimodal-ai-early-disease-detection.git)
 
 - 👩‍💻 **Mihira Puja**  
